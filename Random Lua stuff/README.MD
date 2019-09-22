@@ -1,0 +1,1 @@
+These lua scripts were written for use in the mod "ComputerCraft" for automation purposes.
